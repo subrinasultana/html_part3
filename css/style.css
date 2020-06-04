@@ -1,0 +1,10 @@
+h2{
+	font-size: 30px;
+	color: #009688;
+}
+h4{
+	color: red;
+}
+.border_red{
+	border: 3px double #E91E63;
+}
