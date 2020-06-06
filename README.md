@@ -4,8 +4,9 @@ Topics:
 2. html text formatting elements.
 3. html quotetion & citation elements.
 4. html layout elements.
-5. css selectors.
-6. css colors.
-7. css border.
+5. html table
+6. css selectors.
+7. css colors.
+8. css border.
 
 https://subrinasultana.github.io/html_part3/
