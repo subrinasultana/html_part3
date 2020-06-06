@@ -8,3 +8,19 @@ h4{
 .border_red{
 	border: 3px double #E91E63;
 }
+/*table*/
+table{
+	width: 50%;
+}
+table,th,td{
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
+th,td{
+	padding: 10px;
+	text-align: center;
+}
+thead,tfoot{
+	background-color: #607d8bfc;
+	color: #fff;
+}
