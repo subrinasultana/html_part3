@@ -9,4 +9,4 @@ Topics:
 7. css colors.
 8. css border.
 
-https://subrinasultana.github.io/html_part3/
+https://subrinalisa.github.io/html_part3/
